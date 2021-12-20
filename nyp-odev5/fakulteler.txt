@@ -1,0 +1,10 @@
+Mühendislik Fakültesi, 2500TL
+Fen Edebiyat Fakültesi, 2000TL
+Eğitim Fakültesi, 1000TL
+Ziraat Fakültesi, 500TL
+Veterinerlik Fakültesi, 1000TL
+İlahiyat Fakültesi, 150TL
+İktisat Fakültesi, 1500TL
+Sağlık Bilimleri Fakültesi, 1000TL
+Tıp Fakültesi, 500TL
+Diş Hekimliği Fakültesi, 1000TL
